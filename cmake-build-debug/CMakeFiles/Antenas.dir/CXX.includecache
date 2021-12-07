@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/betoh/OneDrive/Documentos/IPN/2 Semestre/Algoritmos y estructura de datos/C/Antenas/main.cpp
+iostream
+-
+random
+-
+chrono
+-
+

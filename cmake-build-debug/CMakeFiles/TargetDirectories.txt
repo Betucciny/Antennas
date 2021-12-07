@@ -1,0 +1,3 @@
+C:/Users/betoh/OneDrive/Documentos/IPN/2 Semestre/Algoritmos y estructura de datos/C/Antenas/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/betoh/OneDrive/Documentos/IPN/2 Semestre/Algoritmos y estructura de datos/C/Antenas/cmake-build-debug/CMakeFiles/Antenas.dir
+C:/Users/betoh/OneDrive/Documentos/IPN/2 Semestre/Algoritmos y estructura de datos/C/Antenas/cmake-build-debug/CMakeFiles/edit_cache.dir
